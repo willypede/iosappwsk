@@ -115,21 +115,47 @@ class _HomeScreenState extends State<HomeScreen>
           // Navigator.of(context)
           //     .push(MaterialPageRoute(builder: (context) => Detail(data)));
 
-          Navigator.of(context)
-              .push(MaterialPageRoute(builder: (context) => SantapanRohaniPage(data)));
+          Navigator.of(context).push(MaterialPageRoute(
+              builder: (context) => SantapanRohaniPage(data)));
         },
-        child: Column(children: [
-          Image.network(data["image"],
-              height: 130, width: 250, fit: BoxFit.fill),
-          Container(
-              child: Text(
-            data["title"],
-            textAlign: TextAlign.left,
-          )),
-          Container(
-            child: Text(data["date"], style: TextStyle(color: Colors.grey)),
-          )
-        ]));
+        child: Padding(
+          padding: EdgeInsets.all(4),
+          child: Card(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+                children: [
+                  Image.network(data["image"],
+                      height: 120, width: 200, fit: BoxFit.fill),
+                  const SizedBox(
+                    height: 8,
+                  ),
+                  Padding(
+                    padding: EdgeInsets.symmetric(horizontal: 8),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          data["title"],
+                          textAlign: TextAlign.left,
+                          maxLines: 1,
+                          softWrap: true,
+                          style: TextStyle(
+                              fontSize: 12
+                          ),
+                        ),
+                        Text(data["date"],
+                            style: TextStyle(
+                                fontSize: 10,
+                                color: Colors.grey
+                            ))
+                      ],
+                    ),
+                  ),
+                ]
+            ),
+          ),
+        ),
+    );
   }
 
   loadMoreSaTe() async {
