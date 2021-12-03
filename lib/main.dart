@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:iosappwsk/HomeScreen.dart';
+import 'package:iosappwsk/pages/home_screen/HomeScreen.dart';
 
 void main() {
   runApp(MyApp());

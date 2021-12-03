@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:iosappwsk/DukungKami.dart';
 import 'package:iosappwsk/DuniaPage.dart';
-import 'package:iosappwsk/HomeScreen.dart';
+import 'package:iosappwsk/pages/home_screen/HomeScreen.dart';
 import 'package:iosappwsk/IsuKehidupan.dart';
 import 'package:iosappwsk/KirimKarya.dart';
 import 'package:iosappwsk/KomunitasPage.dart';

@@ -6,7 +6,7 @@ import 'package:fluttertoast/fluttertoast.dart';
 import 'package:http/http.dart' as http;
 import 'package:iosappwsk/CreateAccount.dart';
 import 'package:iosappwsk/CustomDialog.dart';
-import 'package:iosappwsk/HomeScreen.dart';
+import 'package:iosappwsk/pages/home_screen/HomeScreen.dart';
 import 'package:iosappwsk/LupaPassword.dart';
 
 

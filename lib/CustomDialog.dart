@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:iosappwsk/CreateAccount.dart';
-import 'package:iosappwsk/HomeScreen.dart';
+import 'package:iosappwsk/pages/home_screen/HomeScreen.dart';
 
 class CustomDialog extends StatelessWidget {
   late final String title, description;

@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\willy\\AndroidStudioProjects\\iosappwsk\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\willy\\.gradle\\caches\\transforms-2\\files-2.1\\f858def9f026e4920eaea989b32f0732\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+        "merged": "D:\\AndroidStudioProjects\\iosappwsk\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\wdarm\\.gradle\\caches\\transforms-2\\files-2.1\\f858def9f026e4920eaea989b32f0732\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\Users\\willy\\AndroidStudioProjects\\iosappwsk\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\willy\\.gradle\\caches\\transforms-2\\files-2.1\\f858def9f026e4920eaea989b32f0732\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "D:\\AndroidStudioProjects\\iosappwsk\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\wdarm\\.gradle\\caches\\transforms-2\\files-2.1\\f858def9f026e4920eaea989b32f0732\\core-1.1.0\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "C:\\Users\\willy\\AndroidStudioProjects\\iosappwsk\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\willy\\.gradle\\caches\\transforms-2\\files-2.1\\f858def9f026e4920eaea989b32f0732\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+        "merged": "D:\\AndroidStudioProjects\\iosappwsk\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\wdarm\\.gradle\\caches\\transforms-2\\files-2.1\\f858def9f026e4920eaea989b32f0732\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "C:\\Users\\willy\\AndroidStudioProjects\\iosappwsk\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\willy\\.gradle\\caches\\transforms-2\\files-2.1\\f858def9f026e4920eaea989b32f0732\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+        "merged": "D:\\AndroidStudioProjects\\iosappwsk\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\wdarm\\.gradle\\caches\\transforms-2\\files-2.1\\f858def9f026e4920eaea989b32f0732\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
     }
 ]
